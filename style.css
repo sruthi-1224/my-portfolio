@@ -79,7 +79,7 @@
     justify-content: center;
     align-items: center;
  }
-
+/*
  .home-img img{
     width: 30vw;
     height: 30vw; /* Use same unit to keep it square */
@@ -87,7 +87,7 @@
     border-radius: 10px;
     
  }
-
+*/
  @keyframes floatImage{
    0%{
       transform: translateY(0);
